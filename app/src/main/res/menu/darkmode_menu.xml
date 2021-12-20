@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/addUser"
+        android:title="@string/add_new_post"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/menuDarkMode"
+        android:title="@string/dark_themes"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menuLightMode"
+        android:title="@string/light_theme"
+        app:showAsAction="never" />
+</menu>

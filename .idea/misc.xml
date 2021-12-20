@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/cornered_view.xml" value="0.1962962962962963" />
+        <entry key="app/src/main/res/drawable/post_image_background.xml" value="0.1935185185185185" />
+        <entry key="app/src/main/res/drawable/rounded_image.xml" value="0.20185185185185187" />
+        <entry key="app/src/main/res/layout/activity_display_data.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.29583333333333334" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/activity_upload_images.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_view_post.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/custom_app_bar.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/database_data_display_card.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/drawer_layout_header.xml" value="0.2537037037037037" />
+        <entry key="app/src/main/res/layout/user_card.xml" value="0.335" />
+        <entry key="app/src/main/res/menu/add_post_menu.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/menu/darkmode_menu.xml" value="0.5" />
+        <entry key="app/src/main/res/menu/drawer_layout_menu.xml" value="0.3098958333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

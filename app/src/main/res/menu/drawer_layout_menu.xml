@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_drawer_add_new_post"
+            android:title="@string/add_new_post" />
+        <item
+            android:id="@+id/nav_drawer_dark_theme"
+            android:title="@string/dark_theme" />
+        <item
+            android:id="@+id/nav_drawer_logout"
+            android:title="@string/logout" />
+    </group>
+</menu>
