@@ -278,5 +278,4 @@ public class AddPostActivity extends AppCompatActivity {
         this.time = splitStr[1];
     }
 
-
 }
